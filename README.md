@@ -1,2 +1,7 @@
 # react-tripago
-A React project for exercising mainly fetch data from server. Detailed topic are in the description.
+This project covered these React subjects:
+- JSON Server
+- Fetching Data
+- useEffect hook
+- useCallback hook
+- Creating a custom fetch hook.
