@@ -1,4 +1,4 @@
-# react-tripago
+# react-Tripago
 This project covered these React subjects:
 - JSON Server
 - Fetching Data
